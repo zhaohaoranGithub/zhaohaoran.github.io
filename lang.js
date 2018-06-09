@@ -1,0 +1,32 @@
+var langMessage = {
+  zh: {
+    a1: '失物招领信息',
+    a2: '发布信息',
+    a3: '查看我发布的信息',
+    a4: '失物招领内容',
+    a5: '发布人姓名',
+    a6: '查询愿望',
+    a7: '星云钱包环境未运行，请安装钱包插件',
+    a8: '合约检测失败，请检查浏览器钱包插件环境！',
+    a9: '暂无失物招领信息',
+    a10: '发布成功，请等待一分钟刷新页面查看我发布的失物招领信息',
+    a11: '暂无失物招领信息',
+    a12: '创建星云钱包',
+    a13: '安装星云钱包',
+  },
+  en: {
+    a1: 'Lost and found information',
+    a2: 'Lost and found',
+    a3: 'Look at the information I have published',
+    a4: 'Lost and found content',
+    a5: 'Publisher name',
+    a6: 'Query wish',
+    a7: 'Nebula wallet environment is not running, please install wallet plugin',
+    a8: 'Contract detection failed, check browser wallet plugin environment!',
+    a9: 'No lost and found information',
+    a10: 'Please wait for one minute to refresh the page and check out my lost and found information.',
+    a11: 'No lost and found information',
+    a12: 'Create nebula Purse',
+    a13: 'Install nebula Purse',
+  }
+}
